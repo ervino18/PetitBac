@@ -1,0 +1,37 @@
+h1{
+    color:gold;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+
+table{
+ border: solid 3px crimson;
+width: 100%;
+
+}
+
+tr{
+    font-size: 25px;
+}
+
+input{
+    /* font-size: 12px; */
+    width: 95%;
+    height: 95%;
+}
+
+button{
+    font-size: 30x;
+}
+
+td{
+    border: solid 1px black;
+    
+}
+
+#tableSaisie{
+    margin-bottom: 40px;
+}
